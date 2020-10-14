@@ -1,4 +1,4 @@
-baseURL = "https://mypopularrecipes.web.app//"
+baseURL = "https://myrecipesstory.web.app
 languageCode = "en-us"
 title = "Best Recipes"
 theme = "x"
@@ -41,7 +41,7 @@ theme = "x"
 
 [author]
     name = "Jesicca Jane"
-    homepage = "https://mypopularrecipes.web.app//"
+    homepage = "https://myrecipesstory.web.app//"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
